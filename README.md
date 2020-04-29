@@ -4,24 +4,28 @@ Tracking system allows to buy and sell stocks.
 
 # Packages
 
-Charts - react-chartkick
+- Charts - react-chartkick
 
-PDF - react-to-print
+- PDF - react-to-print
 
-Data fetching and create using graphql queries in node js server - react-apollo, apollo-boost, @apollo/react-hooks
+- Data fetching and create using graphql queries in node js server - react-apollo, apollo-boost, @apollo/react-hooks
 
-UI View - bootstrap
+- UI View - bootstrap
 
 # Database
 
-PostgreSQL
+- PostgreSQL
 
 # Front - End
 
-React JS
+- React JS
 
 # Server
 
-Node JS with Graph QL 
+- Node JS with Graph QL 
+
+# Commands
+
+- npm start - to run project
 
  
