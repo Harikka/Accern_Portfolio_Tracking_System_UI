@@ -92,7 +92,7 @@ class Report extends Component {
           <thead class="thead-dark">
             <tr>
               <td>
-                <h2 style={{ color: "#3C6CC7" }}>Latest 10 Transactions</h2>
+                <h2 style={{ color: "#3C6CC7" }}>Latest Transactions</h2>
               </td>
             </tr>
             <tr>
