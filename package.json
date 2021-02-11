@@ -5,7 +5,7 @@
   "dependencies": {
     "@apollo/react-hooks": "^3.1.5",
     "@react-pdf/renderer": "^1.6.8",
-    "apexcharts": "^3.19.0",
+    "apexcharts": "^3.24.0",
     "apollo-boost": "^0.4.7",
     "apollo-cache-inmemory": "^1.6.5",
     "apollo-client": "^2.6.8",
